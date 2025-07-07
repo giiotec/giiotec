@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Giovane • @giiotec 🚀</h1>
+<h1 align="center">Olá! Sou o Giovane Remos • @giiotec </h1>
 
 <p align="center">
   <img src="https://github.com/giiotec/giiotec/blob/main/logo-giiotec.png" width="200px" alt="Logo Giiotec" />
@@ -11,7 +11,7 @@
 
 ---
 
-### 🔧 Tecnologias que uso e estudo
+ Tecnologias que uso e estudo
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -23,7 +23,7 @@
 
 ---
 
-### 🚧 Projetos em destaque
+ Projetos em destaque
 
 - 🔗 [React Site Base • Vite + Tailwind + Router](https://github.com/giiotec/react-site-base-giiotec)  
   <sup>→ Projeto base para criar sites profissionais com React + Vite.</sup>
@@ -33,7 +33,7 @@
 
 ---
 
-### 📫 Contato
+ Contato
 
 📧 Email: giiotec@outlook.com  
 📍 Local: Brasil  
@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 Estatísticas GitHub
+ Estatísticas GitHub
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giiotec&show_icons=true&theme=radical" />
@@ -50,11 +50,11 @@
 
 ---
 
-### 🎯 Objetivo
+ Objetivo
 
 Desenvolver soluções reais para empresas e projetos pessoais, com um método de aprendizado baseado em execução.  
 > “A melhor forma de aprender é entregando.”
 
 ---
 
-🛠 Feito com dedicação e código por [@giiotec](https://github.com/giiotec)
+ Feito com dedicação e código por [@giiotec](https://github.com/giiotec)
