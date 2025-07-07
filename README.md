@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Sou o Giovane Remos • @giiotec </h1>
+<h1 align="center">Oi! Me chamo Giovane Ramos • Futuro Dev em Desenvolvimento </h1>
 
 <p align="center">
   <img src="https://github.com/giiotec/giiotec/blob/main/logo-giiotec.png" width="200px" alt="Logo Giiotec" />
@@ -57,4 +57,5 @@ Desenvolver soluções reais para empresas e projetos pessoais, com um método d
 
 ---
 
- Feito com dedicação e código por [@giiotec](https://github.com/giiotec)
+ Feito com dedicação e código por [@giiotec](https://github.com/giiotec
+)
