@@ -11,7 +11,7 @@
 
 ---
 
- <h3 align="center"> Tecnologias que uso e estudo </h3>
+<h3 align="center"> Tecnologias que uso e estudo </h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
