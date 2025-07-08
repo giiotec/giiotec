@@ -25,19 +25,19 @@
 
  <h3 align="center"> Projetos em destaque </h3>
 
-- 🔗 [React Site Base • Vite + Tailwind + Router](https://github.com/giiotec/react-site-base-giiotec)  
+-  <p align="center"> [React Site Base • Vite + Tailwind + Router](https://github.com/giiotec/react-site-base-giiotec)  
   <sup>→ Projeto base para criar sites profissionais com React + Vite.</sup>
 
-- 🔗 [Scraper de Preços com Python](https://github.com/giiotec/scraper-precos-python)  
-  <sup>→ Script para extrair preços de sites e gerar planilhas.</sup>
+-  [Scraper de Preços com Python](https://github.com/giiotec/scraper-precos-python)  
+  <sup>→ Script para extrair preços de sites e gerar planilhas.</sup> </p>
 
 ---
 
 <h3 align="center">Contato </h3>
 
-📧 Email: giiotec@outlook.com  
-📍 Local: Brasil  
-🌱 Atualmente estudando: APIs REST, integração com automações e frontend moderno.
+ Email: giiotec@outlook.com  
+ Local: Brasil  
+ Atualmente estudando: APIs REST, integração com automações e frontend moderno.
 
 ---
 
