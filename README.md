@@ -25,7 +25,7 @@
 
 Projetos em destaque
 
-- align="center"> [React Site Base • Vite + Tailwind + Router](https://github.com/giiotec/react-site-base-giiotec)  
+- [React Site Base • Vite + Tailwind + Router](https://github.com/giiotec/react-site-base-giiotec)  
   <sup>→ Projeto base para criar sites profissionais com React + Vite.</sup>
 
 -  [Scraper de Preços com Python](https://github.com/giiotec/scraper-precos-python)  
