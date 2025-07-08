@@ -5,8 +5,8 @@
 </p>
 
 <h3 align="center"> 
-🧠 Desenvolvedor em formação com foco prático, aprendendo na execução real com projetos próprios. <br/>
-💻 Apaixonado por automação, web scraping e soluções criativas com código.
+ Desenvolvedor em formação com foco prático, aprendendo na execução real com projetos próprios. <br/>
+ Apaixonado por automação, web scraping e soluções criativas com código.
 </h3>
 
 ---
@@ -23,7 +23,7 @@
 
 ---
 
- Projetos em destaque
+ <h3 align="center"> Projetos em destaque </h3>
 
 - 🔗 [React Site Base • Vite + Tailwind + Router](https://github.com/giiotec/react-site-base-giiotec)  
   <sup>→ Projeto base para criar sites profissionais com React + Vite.</sup>
@@ -33,7 +33,7 @@
 
 ---
 
- Contato
+<h3 align="center">Contato </h3>
 
 📧 Email: giiotec@outlook.com  
 📍 Local: Brasil  
@@ -41,7 +41,7 @@
 
 ---
 
- Estatísticas GitHub
+<h3 align="center"> Estatísticas GitHub </h3>
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giiotec&show_icons=true&theme=radical" />
@@ -50,7 +50,7 @@
 
 ---
 
- Objetivo
+ <h3 align="center"> Objetivo </h3>
 
 Desenvolver soluções reais para empresas e projetos pessoais, com um método de aprendizado baseado em execução.  
 > “A melhor forma de aprender é entregando.”
