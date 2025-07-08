@@ -23,17 +23,17 @@
 
 ---
 
- <h3 align="center"> Projetos em destaque </h3>
+Projetos em destaque
 
--  <p align="center"> [React Site Base • Vite + Tailwind + Router](https://github.com/giiotec/react-site-base-giiotec)  
+- align="center"> [React Site Base • Vite + Tailwind + Router](https://github.com/giiotec/react-site-base-giiotec)  
   <sup>→ Projeto base para criar sites profissionais com React + Vite.</sup>
 
 -  [Scraper de Preços com Python](https://github.com/giiotec/scraper-precos-python)  
-  <sup>→ Script para extrair preços de sites e gerar planilhas.</sup> </p>
+  <sup>→ Script para extrair preços de sites e gerar planilhas.</sup>
 
 ---
 
-<h3 align="center">Contato </h3>
+Contato 
 
  Email: giiotec@outlook.com  
  Local: Brasil  
@@ -50,7 +50,7 @@
 
 ---
 
- <h3 align="center"> Objetivo </h3>
+Objetivo
 
 Desenvolver soluções reais para empresas e projetos pessoais, com um método de aprendizado baseado em execução.  
 > “A melhor forma de aprender é entregando.”
