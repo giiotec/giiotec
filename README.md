@@ -4,10 +4,10 @@
   <img src="https://github.com/giiotec/giiotec/blob/main/logo-giiotec.png" width="200px" alt="Logo Giiotec" />
 </p>
 
-<h1 align="center"> 
+<h3 align="center"> 
 🧠 Desenvolvedor em formação com foco prático, aprendendo na execução real com projetos próprios. <br/>
 💻 Apaixonado por automação, web scraping e soluções criativas com código.
-</h1>
+</h3>
 
 ---
 
