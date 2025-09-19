@@ -1,4 +1,4 @@
-<h1 align="center">Oi! Me chamo Giovane • Futuro Dev em Desenvolvimento </h1>
+<h1 align="center">Oi! Me chamo Giovane • Atualmente cursando ADS</h1>
 
 <p align="center">
   <img src="https://github.com/giiotec/giiotec/blob/main/logo-giiotec.png" width="200px" alt="Logo Giiotec" />
