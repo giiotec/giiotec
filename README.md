@@ -1,61 +1,112 @@
-<h1 align="center">Oi! Me chamo Giovane • Atualmente cursando ADS</h1>
+<!-- Perfil: giiotec | README de perfil -->
+
+<h1 align="center">👨‍💻 Giovane (Gi) — Builder de Código & Negócios</h1>
 
 <p align="center">
-  <img src="https://github.com/giiotec/giiotec/blob/main/logo-giiotec.png" width="200px" alt="Logo Giiotec" />
+  <img src="https://github.com/giiotec/giiotec/blob/main/logo-giiotec.png" width="200" alt="Logo Giiotec" />
 </p>
 
-<h3 align="center"> 
- Desenvolvedor em formação com foco prático, aprendendo na execução real com projetos próprios. <br/>
- Apaixonado por automação, web scraping e soluções criativas com código.
-</h3>
-
----
-
-<h3 align="center"> Tecnologias que uso e estudo </h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
----
-
-Projetos em destaque
-
-- [React Site Base • Vite + Tailwind + Router](https://github.com/giiotec/react-site-base-giiotec)  
-  <sup>→ Projeto base para criar sites profissionais com React + Vite.</sup>
-
--  [Scraper de Preços com Python](https://github.com/giiotec/scraper-precos-python)  
-  <sup>→ Script para extrair preços de sites e gerar planilhas.</sup>
-
----
-
-Contato 
-
- Email: giiotec@outlook.com  
- Local: Brasil  
- Atualmente estudando: APIs REST, integração com automações e frontend moderno.
-
----
-
-<h3 align="center"> Estatísticas GitHub </h3>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Construindo+SaaS+reais+%F0%9F%9A%80;Automação%2C+Web+Scraping+e+IA+aplicada;De+Itapetininga+para+o+mundo+%F0%9F%8C%8E">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Construindo+SaaS+reais+%F0%9F%9A%80;Automação%2C+Web+Scraping+e+IA+aplicada;De+Itapetininga+para+o+mundo+%F0%9F%8C%8E" alt="linhas animadas"/>
+  </a>
+</p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giiotec&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giiotec&layout=compact&theme=radical" />
+  <img src="https://komarev.com/ghpvc/?username=giiotec&label=Visitantes&style=for-the-badge&color=10b981" alt="views" />
+  <img src="https://img.shields.io/badge/Open%20to%20collab-Yes-10B981?style=for-the-badge" alt="collab" />
+  <img src="https://img.shields.io/badge/Aprendendo-APIs%20REST%20%7C%20Frontend%20Moderno-0ea5e9?style=for-the-badge" alt="learning" />
 </p>
 
 ---
 
-Objetivo
+### 🔧 Stack que uso/estudo
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-Desenvolver soluções reais para empresas e projetos pessoais, com um método de aprendizado baseado em execução.  
+---
+
+### 🏗️ O que estou forjando agora
+- ✂️ **BarberPro Agenda** — MVP de agendamento simples e vendável (SaaS).  
+- 🍞 **Delícias do Vovô** — e-commerce artesanal (migração `localStorage` → banco).  
+- 🧰 **React Base** — template produtivo para sites modernos (Vite + Tailwind + Router).
+
+---
+
+### 🚀 Projetos em destaque (Showroom)
+- 🍃 **React Site Base** — Vite + Tailwind + Router  
+  <sup>Projeto base para subir sites profissionais rapidamente.</sup>  
+  ➜ https://github.com/giiotec/react-site-base-giiotec
+
+- 🕵️ **Scraper de Preços (Python)**  
+  <sup>Extrai preços de sites e gera planilhas para análise.</sup>  
+  ➜ https://github.com/giiotec/scraper-precos-python
+
+- 🛒 **Delícias do Vovô (Frontend MVP)**  
+  <sup>E-commerce local; foco em UX simples e conversão.</sup>  
+  ➜ *(repositório público em breve)*
+
+---
+
+### 📅 Linha do tempo (Roadmap curto)
+- [x] Consolidar base React (design system simples + roteamento).  
+- [x] Scraper funcional gerando CSV/Excel.  
+- [ ] Migrar e-commerce para **Supabase/Postgres** (produtos, pedidos, RLS).  
+- [ ] Versão beta do **BarberPro Agenda** com calendário e notificações.  
+- [ ] Deploy público + landing pages de venda.
+
+---
+
+### 🎯 Filosofia
 > “A melhor forma de aprender é entregando.”
 
+> “Conhecereis a verdade, e a verdade vos libertará.” — João 8:32
+
 ---
 
- Feito com dedicação e código por [@giiotec](https://github.com/giiotec
-)
+### 📈 Estatísticas
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=giiotec&show_icons=true&theme=radical" alt="stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giiotec&layout=compact&theme=radical" alt="langs"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=giiotec&theme=radical" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=giiotec&theme=onedark&row=1&column=6" alt="trophies"/>
+</p>
+
+<!--
+Opcional (requer GitHub Action):
+<p align="center">
+  <img src="https://raw.githubusercontent.com/giiotec/giiotec/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+-->
+
+---
+
+### 🤝 Contato
+- ✉️ Email: **giiotec@outlook.com**  
+- 🌐 Site/Portfólio: **giiotec.com** (quando publicar, linke aqui)  
+- 🇧🇷 Local: Brasil
+
+---
+
+### 😄 Fun facts
+- ☕ Café compila meu código.  
+- 🧭 Aprendizado pela prática: projetos reais > tutoriais infinitos.  
+- 🌍 Objetivo: escalar soluções de Itapetininga para o mundo.
+
+---
+
+<p align="center">
+  Feito com dedicação e código por <a href="https://github.com/giiotec">@giiotec</a> • Se curtiu, deixe uma ⭐ em algum repo!
+</p>
+
