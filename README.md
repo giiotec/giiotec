@@ -1,6 +1,6 @@
 <!-- Perfil: giiotec | README de perfil -->
 
-<h1 align="center"> Giovane (Gi) — Builder de Código & Negócios</h1>
+<h1 align="center"> Oi, Me chamo Giovane Ramos, Atualmente concluindo ADS</h1>
 
 <p align="center">
   <img src="https://github.com/giiotec/giiotec/blob/main/logo-giiotec.png" width="200" alt="Logo Giiotec" />
