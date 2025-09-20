@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Construindo+SaaS+reais+%F0%9F%9A%80;Automação%2C+Web+Scraping+e+IA+aplicada;De+Itapetininga+para+o+mundo+%F0%9F%8C%8E">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Construindo+SaaS+reais+%F0%9F%9A%80;Automação%2C+Web+Scraping+e+IA+aplicada;De+Itapetininga+para+o+mundo+%F0%9F%8C%8E" alt="linhas animadas"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Construindo+SaaS+reais+🚀;Automação,+Web+Scraping+e+IA+aplicada;De+Itapetininga+para+o+mundo+🌍" alt="linhas animadas"/>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=giiotec&label=Visitantes&style=for-the-badge&color=10b981" alt="views" />
