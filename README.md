@@ -6,9 +6,9 @@
   <img src="https://github.com/giiotec/giiotec/blob/main/logo-giiotec.png" width="200" alt="Logo Giiotec" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=10B981&width=600&lines=Construindo+SaaS+reais;Automacao+e+Web+Scraping;De+Itapetininga+para+o+mundo" alt="linhas animadas" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=10B981&width=600&lines=Automacao+e+Web+Scraping;De+Itapetininga+para+o+mundo" alt="linhas animadas" />
+</div>
 
 
 
