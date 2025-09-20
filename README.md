@@ -12,11 +12,16 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=giiotec&label=Visitantes&style=for-the-badge&color=10b981" alt="views" />
-  <img src="https://img.shields.io/badge/Open%20to%20collab-Yes-10B981?style=for-the-badge" alt="collab" />
-  <img src="https://img.shields.io/badge/Aprendendo-APIs%20REST%20%7C%20Frontend%20Moderno-0ea5e9?style=for-the-badge" alt="learning" />
-</p>
+<div align="center">
+
+  <img src="https://github.com/giiotec/giiotec/blob/main/logo-giiotec.png" width="200" alt="Logo Giiotec" />
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=10B981&width=600&lines=Automacao+e+Web+Scraping;De+Itapetininga+para+o+mundo" alt="linhas animadas" />
+
+</div>
+
 
 ---
 
