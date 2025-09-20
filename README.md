@@ -1,6 +1,6 @@
 <!-- Perfil: giiotec | README de perfil -->
 
-<h1 align="center">👨‍💻 Giovane (Gi) — Builder de Código & Negócios</h1>
+<h1 align="center"> Giovane (Gi) — Builder de Código & Negócios</h1>
 
 <p align="center">
   <img src="https://github.com/giiotec/giiotec/blob/main/logo-giiotec.png" width="200" alt="Logo Giiotec" />
@@ -31,29 +31,28 @@
 
 ---
 
-### 🏗️ O que estou forjando agora
-- ✂️ **BarberPro Agenda** — MVP de agendamento simples e vendável (SaaS).  
-- 🍞 **Delícias do Vovô** — e-commerce artesanal (migração `localStorage` → banco).  
-- 🧰 **React Base** — template produtivo para sites modernos (Vite + Tailwind + Router).
+###  Projetos que estou atualmente trabalhando  
+-  **Delícias do Vovô** — e-commerce artesanal (migração `localStorage` → banco).  
+-  **React Base** — template produtivo para sites modernos (Vite + Tailwind + Router).
 
 ---
 
-### 🚀 Projetos em destaque (Showroom)
-- 🍃 **React Site Base** — Vite + Tailwind + Router  
+###  Projetos em destaque (Showroom)
+-  **React Site Base** — Vite + Tailwind + Router  
   <sup>Projeto base para subir sites profissionais rapidamente.</sup>  
   ➜ https://github.com/giiotec/react-site-base-giiotec
 
-- 🕵️ **Scraper de Preços (Python)**  
+-  **Scraper de Preços (Python)**  
   <sup>Extrai preços de sites e gera planilhas para análise.</sup>  
   ➜ https://github.com/giiotec/scraper-precos-python
 
-- 🛒 **Delícias do Vovô (Frontend MVP)**  
+-  **Delícias do Vovô (Frontend MVP)**  
   <sup>E-commerce local; foco em UX simples e conversão.</sup>  
   ➜ *(repositório público em breve)*
 
 ---
 
-### 📅 Linha do tempo (Roadmap curto)
+###  Linha do tempo (Roadmap curto)
 - [x] Consolidar base React (design system simples + roteamento).  
 - [x] Scraper funcional gerando CSV/Excel.  
 - [ ] Migrar e-commerce para **Supabase/Postgres** (produtos, pedidos, RLS).  
@@ -62,14 +61,14 @@
 
 ---
 
-### 🎯 Filosofia
+###  Filosofia
 > “A melhor forma de aprender é entregando.”
 
 > “Conhecereis a verdade, e a verdade vos libertará.” — João 8:32
 
 ---
 
-### 📈 Estatísticas
+###  Estatísticas
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=giiotec&show_icons=true&theme=radical" alt="stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giiotec&layout=compact&theme=radical" alt="langs"/>
@@ -92,17 +91,17 @@ Opcional (requer GitHub Action):
 
 ---
 
-### 🤝 Contato
-- ✉️ Email: **giiotec@outlook.com**  
-- 🌐 Site/Portfólio: **giiotec.com** (quando publicar, linke aqui)  
+###  Contato
+- Email: **giiotec@outlook.com**  
+-  Site/Portfólio: **giiotec.com** (quando publicar, linke aqui)  
 - 🇧🇷 Local: Brasil
 
 ---
 
-### 😄 Fun facts
-- ☕ Café compila meu código.  
-- 🧭 Aprendizado pela prática: projetos reais > tutoriais infinitos.  
-- 🌍 Objetivo: escalar soluções de Itapetininga para o mundo.
+###  Fun facts
+-  Café compila meu código.  
+-  Aprendizado pela prática: projetos reais > tutoriais infinitos.  
+-  Objetivo: escalar soluções de Itapetininga para o mundo.
 
 ---
 
