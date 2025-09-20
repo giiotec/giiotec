@@ -86,7 +86,7 @@ Opcional (requer GitHub Action):
 
 ###  Contato
 - Email: **giiotec@outlook.com**  
--  Site/Portfólio:https://www.giiotec.com/ 
+-  Site/Portfólio:https://www.giiotec.com
 - 🇧🇷 Local: Brasil
 
 ---
