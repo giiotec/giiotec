@@ -1,16 +1,12 @@
-<!-- Perfil: giiotec | README de perfil — v2.0 (Futurista + Profissional + Executável) -->
+<!-- Perfil: giiotec | README de perfil — v2.1 (Sem imagens locais + Futurista + Profissional) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:10b981,100:22c55e&height=190&section=header&text=Giovane%20Ramos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dev%20Web%20%7C%20Automação%20%7C%20Produtos%20reais%20(ADS%20em%20conclusão)&descAlignY=60&descSize=16" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/giiotec/giiotec/blob/main/logo-giiotec.png" width="140" alt="Logo Giiotec" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:10b981,100:22c55e&height=190&section=header&text=Giovane%20Ramos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dev%20Web%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Produtos%20reais%20(ADS%20em%20conclus%C3%A3o)&descAlignY=60&descSize=16" />
 </p>
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Construindo+interfaces+premium+e+rápidas;React+%2B+Vite+%2B+Tailwind+%2B+TypeScript;Automação+%2F+Scraping+com+Python;De+Itapetininga-SP+para+o+mundo"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Construindo+interfaces+premium+e+rápidas;React+%2B+Vite+%2B+Tailwind+%2B+TypeScript;Automa%C3%A7%C3%A3o+%2F+Scraping+com+Python;De+Itapetininga-SP+para+o+mundo"
     alt="linhas animadas"
   />
 </div>
@@ -22,7 +18,7 @@
   <a href="https://www.giiotec.com">
     <img src="https://img.shields.io/badge/Portfólio-giiotec.com-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Brasil-Itapetininga--SP-111827?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brasil-Itapetininga--SP-111827?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -67,7 +63,7 @@ Sou **Desenvolvedor Web** (ADS em conclusão) focado em **entregar projetos reai
 - **Delícias do Vovô (MVP público)** — e-commerce local, foco em UX e conversão  
   ➜ *(repositório público em breve)*
 
-> Dica esperta: repo público só quando estiver “apresentável”. Melhor 2 repos fortes do que 10 rascunhos.
+> Melhor 2 repos fortes do que 10 rascunhos.
 
 ---
 
@@ -90,7 +86,7 @@ Sou **Desenvolvedor Web** (ADS em conclusão) focado em **entregar projetos reai
 
 ---
 
-## 📊 Estatísticas (porque o GitHub gosta de números)
+## 📊 Estatísticas
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=giiotec&show_icons=true&theme=radical" alt="stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giiotec&layout=compact&theme=radical" alt="langs"/>
@@ -103,13 +99,6 @@ Sou **Desenvolvedor Web** (ADS em conclusão) focado em **entregar projetos reai
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=giiotec&theme=onedark&row=1&column=6" alt="trophies"/>
 </p>
-
-<!--
-Opcional (requer GitHub Action):
-<p align="center">
-  <img src="https://raw.githubusercontent.com/giiotec/giiotec/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
--->
 
 ---
 
