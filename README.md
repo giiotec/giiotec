@@ -1,74 +1,103 @@
-<!-- Perfil: giiotec | README de perfil -->
-
-<h1 align="center"> Oi, Me chamo Giovane Ramos, Atualmente concluindo ADS</h1>
+<!-- Perfil: giiotec | README de perfil — v2.0 (Futurista + Profissional + Executável) -->
 
 <p align="center">
-  <img src="https://github.com/giiotec/giiotec/blob/main/logo-giiotec.png" width="200" alt="Logo Giiotec" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:10b981,100:22c55e&height=190&section=header&text=Giovane%20Ramos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dev%20Web%20%7C%20Automação%20%7C%20Produtos%20reais%20(ADS%20em%20conclusão)&descAlignY=60&descSize=16" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/giiotec/giiotec/blob/main/logo-giiotec.png" width="140" alt="Logo Giiotec" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=10B981&width=600&lines=Automacao+e+Web+Scraping;De+Itapetininga+para+o+mundo" alt="linhas animadas" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Construindo+interfaces+premium+e+rápidas;React+%2B+Vite+%2B+Tailwind+%2B+TypeScript;Automação+%2F+Scraping+com+Python;De+Itapetininga-SP+para+o+mundo"
+    alt="linhas animadas"
+  />
 </div>
 
-
----
-
-### 🔧 Stack que uso/estudo
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <a href="mailto:giiotec@outlook.com">
+    <img src="https://img.shields.io/badge/Email-giiotec%40outlook.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.giiotec.com">
+    <img src="https://img.shields.io/badge/Portfólio-giiotec.com-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Brasil-Itapetininga--SP-111827?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 ---
 
-###  Projetos que estou atualmente trabalhando  
--  **Delícias do Vovô** — e-commerce artesanal (migração `localStorage` → banco).  
--  **React Base** — template produtivo para sites modernos (Vite + Tailwind + Router).
+## ⚡ Quem eu sou (sem enrolação)
+Sou **Desenvolvedor Web** (ADS em conclusão) focado em **entregar projetos reais** com acabamento premium:
+- Interfaces rápidas e responsivas (**padrão “site de empresa de verdade”**)
+- Integrações que geram resultado (**WhatsApp/Instagram, formulários, SEO básico**)
+- Estrutura limpa e escalável (pra não virar gambiarra amanhã)
 
 ---
 
-###  Projetos em destaque (Showroom)
--  **React Site Base** — Vite + Tailwind + Router  
-  <sup>Projeto base para subir sites profissionais rapidamente.</sup>  
+## 🧠 Stack principal (uso/estudo)
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-0B1220?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+  <img src="https://img.shields.io/badge/Tailwind-0B1220?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+  <img src="https://img.shields.io/badge/Firebase-0B1220?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=node.js&logoColor=22C55E"/>
+  <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB"/>
+</p>
+
+---
+
+## 🚀 Agora (o que estou construindo)
+- **Delícias do Vovô** — e-commerce artesanal (migração `localStorage` → banco + UX de compra)
+- **React Base** — template produtivo pra sites premium (Vite + Tailwind + Router + componentes prontos)
+- **BarberPro Agenda** — MVP com calendário, notificações e base pra virar SaaS
+
+---
+
+## 🧩 Projetos em destaque (Showroom)
+### ✅ Repositórios públicos
+- **React Site Base** — Vite + Tailwind + Router  
   ➜ https://github.com/giiotec/react-site-base-giiotec
 
--  **Scraper de Preços (Python)**  
-  <sup>Extrai preços de sites e gera planilhas para análise.</sup>  
+- **Scraper de Preços (Python)**  
   ➜ https://github.com/giiotec/scraper-precos-python
 
--  **Delícias do Vovô (Frontend MVP)**  
-  <sup>E-commerce local; foco em UX simples e conversão.</sup>  
+### 🔜 Em breve (quando estiver redondo)
+- **Delícias do Vovô (MVP público)** — e-commerce local, foco em UX e conversão  
   ➜ *(repositório público em breve)*
 
----
-
-###  Linha do tempo (Roadmap curto)
-- [x] Consolidar base React (design system simples + roteamento).  
-- [x] Scraper funcional gerando CSV/Excel.  
-- [ ] Migrar e-commerce para **Supabase/Postgres** (produtos, pedidos, RLS).  
-- [ ] Versão beta do **BarberPro Agenda** com calendário e notificações.  
-- [ ] Deploy público + landing pages de venda.
+> Dica esperta: repo público só quando estiver “apresentável”. Melhor 2 repos fortes do que 10 rascunhos.
 
 ---
 
-###  Filosofia
-> “A melhor forma de aprender é entregando.”
-
-> “Conhecereis a verdade, e a verdade vos libertará.” — João 8:32
+## 🧭 Roadmap (curto e executável)
+- [x] Consolidar base React (design system simples + roteamento)
+- [x] Scraper funcional gerando CSV/Excel
+- [ ] Padronizar “React Base” com componentes prontos (Header, Hero, CTA, Form, Footer, SEO)
+- [ ] Migrar e-commerce para **Postgres (Supabase ou Firebase bem estruturado)** + painel admin
+- [ ] Beta do **BarberPro Agenda** (calendário + confirmação + lembretes)
+- [ ] Landing pública + proposta comercial (pra fechar cliente de verdade)
 
 ---
 
-###  Estatísticas
+## 🧰 Como eu posso gerar valor (na prática)
+- Site institucional **premium** (credibilidade + conversão)
+- Landing pages (captação de leads / WhatsApp)
+- Catálogos de produtos (sem e-commerce, mas com cara profissional)
+- Automação e scraping (Python) pra relatórios, planilhas, rotinas e dados
+- MVPs com Firebase/Supabase (login, dashboard, CRUD, permissões)
+
+---
+
+## 📊 Estatísticas (porque o GitHub gosta de números)
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=giiotec&show_icons=true&theme=radical" alt="stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giiotec&layout=compact&theme=radical" alt="langs"/>
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=giiotec&theme=radical" alt="streak"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=giiotec&theme=radical" alt="streak"/>
 </p>
 
 <p align="center">
@@ -84,21 +113,17 @@ Opcional (requer GitHub Action):
 
 ---
 
-###  Contato
-- Email: **giiotec@outlook.com**  
--  Site/Portfólio:https://www.giiotec.com
-- 🇧🇷 Local: Brasil
+## 🧭 Filosofia
+> “A melhor forma de aprender é entregando.”
 
----
-
-###  Fun facts
--  Café compila meu código.  
--  Aprendizado pela prática: projetos reais > tutoriais infinitos.  
--  Objetivo: escalar soluções de Itapetininga para o mundo.
+> “Conhecereis a verdade, e a verdade vos libertará.” — João 8:32
 
 ---
 
 <p align="center">
-  Feito com dedicação e código por <a href="https://github.com/giiotec">@giiotec</a> • Se curtiu, deixe uma ⭐ em algum repo!
+  Feito com dedicação e código por <a href="https://github.com/giiotec">@giiotec</a> • Se curtiu, deixa uma ⭐ em algum repo!
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:10b981,100:0ea5e9&height=120&section=footer" />
+</p>
