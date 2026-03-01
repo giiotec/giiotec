@@ -2,12 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:10b981,100:047857&height=190&section=header&text=Giovane%20Ramos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenheiro%20de%20Software%20%7C%20Orquestrador%20de%20IA%20%7C%20ADS&descAlignY=60&descSize=16" />
 </p>
 
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2000&color=10B981&center=true&vCenter=true&width=700&lines=Sintaxe+é+commodity.+Arquitetura+é+o+diferencial.;Orquestrando+uma+equipe+de+milhões+através+da+IA.;Construindo+SaaS,+Automações+e+Ecossistemas+B2B.;De+Itapetininga-SP+para+a+nuvem."
-    alt="linhas animadas"
-  />
-</div>
+<h3 align="center">Sintaxe é commodity. Arquitetura é o diferencial.</h3>
+<p align="center">
+  <i>Orquestrando uma equipe de milhões através da IA. Construindo SaaS e Automações B2B.<br>De Itapetininga-SP para a nuvem.</i>
+</p>
 
 <br>
 
@@ -42,17 +40,8 @@ Meu foco atual está no desenvolvimento em *stealth mode* e na resolução de ga
 
 ---
 
-### Telemetria e Impacto
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=giiotec&show_icons=true&theme=onedark&bg_color=0B1220&title_color=10B981&icon_color=10B981&text_color=ffffff" alt="stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giiotec&layout=compact&theme=onedark&bg_color=0B1220&title_color=10B981&text_color=ffffff" alt="langs"/>
-</p>
-
----
-
 > "Não codo para a máquina. Orquestro máquinas para servir pessoas."
-
+>
 > "Conhecereis a verdade, e a verdade vos libertará." — João 8:32
 
 <br>
