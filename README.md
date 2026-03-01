@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:10b981,100:047857&height=190&section=header&text=Giovane%20Ramos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Arquiteto%20de%20Software%20%7C%20Orquestrador%20de%20IA%20%7C%20ADS&descAlignY=60&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:10b981,100:047857&height=190&section=header&text=Giovane%20Ramos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenheiro%20de%20Software%20%7C%20Orquestrador%20de%20IA%20%7C%20ADS&descAlignY=60&descSize=16" />
 </p>
 
 <div align="center">
@@ -58,7 +58,7 @@ Meu foco atual está no desenvolvimento em *stealth mode* e na resolução de ga
 <br>
 
 <p align="center">
-  <b>Arquiteto de Soluções</b> • <a href="https://github.com/giiotec">@giiotec</a>
+  <b>Engenheiro de Software</b> • <a href="https://github.com/giiotec">@giiotec</a>
 </p>
 
 <p align="center">
