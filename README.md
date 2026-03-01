@@ -1,92 +1,48 @@
-<!-- Perfil: giiotec | README de perfil — v2.1 (Sem imagens locais + Futurista + Profissional) -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:10b981,100:22c55e&height=190&section=header&text=Giovane%20Ramos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dev%20Web%20%7C%20Automa%C3%A7%C3%A3o%20%7C%20Produtos%20reais%20(ADS%20em%20conclus%C3%A3o)&descAlignY=60&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:10b981,100:22c55e&height=190&section=header&text=Giovane%20Ramos&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenheiro%20de%20Software%20%7C%20Orquestrador%20de%20IA%20%7C%20Formado%20em%20ADS&descAlignY=60&descSize=16" />
 </p>
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Construindo+interfaces+premium+e+rápidas;React+%2B+Vite+%2B+Tailwind+%2B+TypeScript;Automa%C3%A7%C3%A3o+%2F+Scraping+com+Python;De+Itapetininga-SP+para+o+mundo"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Orquestrando+milhões+de+devs+com+IA;Construindo+SaaS+e+Automações;SaaS+%26+Soluções+para+Negócios;De+Itapetininga-SP+para+o+mundo"
     alt="linhas animadas"
   />
 </div>
 
-<p align="center">
-  <a href="mailto:giiotec@outlook.com">
-    <img src="https://img.shields.io/badge/Email-giiotec%40outlook.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.giiotec.com">
-    <img src="https://img.shields.io/badge/Portfólio-giiotec.com-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Brasil-Itapetininga--SP-111827?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+---
+
+## ⚡ O Novo Desenvolvedor (Quem eu sou)
+
+Sou **formado em Análise e Desenvolvimento de Sistemas** e construo produtos reais com uma filosofia clara: **as IAs são o futuro do mundo dev.**
+
+A era de decorar sintaxe acabou. Quem focar apenas nisso será ultrapassado. O desenvolvedor do futuro é um **orquestrador**. Hoje, eu construo projetos Fullstack solo liderando um "time" de milhares de desenvolvedores virtuais. Sabendo usar a inteligência artificial, tenho o poder de milhões de mentes brilhantes trabalhando na palma das minhas teclas. Eu não digito linhas de código à toa; eu penso na arquitetura, gerencio fluxos e entrego resultados de alto impacto.
 
 ---
 
-## ⚡ Quem eu sou (sem enrolação)
-Sou **Desenvolvedor Web** (ADS em conclusão) focado em **entregar projetos reais** com acabamento premium:
-- Interfaces rápidas e responsivas (**padrão “site de empresa de verdade”**)
-- Integrações que geram resultado (**WhatsApp/Instagram, formulários, SEO básico**)
-- Estrutura limpa e escalável (pra não virar gambiarra amanhã)
+## 🚀 O que estou construindo na prática
+
+Minha atuação é focada em tirar ideias do papel e transformá-las em software que resolve problemas de negócios:
+
+- **SaaS B2B (Stealth Mode):** Desenvolvimento de uma plataforma completa focada no setor gastronômico/deliveries. Arquitetura voltada para conversão, retenção de clientes e automação de pedidos.
+- **Automação e Bots:** Criação de fluxos inteligentes e complexos utilizando **n8n**, webhooks e integração com APIs para triagem avançada de atendimento e chatbots de WhatsApp/Telegram.
+- **Ecossistema para Negócios Locais:** Desenvolvimento de landing pages de altíssima conversão e sistemas modulares para clínicas de estética e comércios que precisam de uma presença digital premium e automatizada.
 
 ---
 
-## 🧠 Stack principal (uso/estudo)
+## 🧠 Stack & Arsenal (A Base da Orquestração)
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vite-0B1220?style=for-the-badge&logo=vite&logoColor=646CFF"/>
   <img src="https://img.shields.io/badge/Tailwind-0B1220?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-  <img src="https://img.shields.io/badge/Firebase-0B1220?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
   <img src="https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=node.js&logoColor=22C55E"/>
   <img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/n8n-0B1220?style=for-the-badge&logo=n8n&logoColor=FF6D5W"/>
+  <img src="https://img.shields.io/badge/AI_Tools-0B1220?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Agora (o que estou construindo)
-- **Delícias do Vovô** — e-commerce artesanal (migração `localStorage` → banco + UX de compra)
-- **React Base** — template produtivo pra sites premium (Vite + Tailwind + Router + componentes prontos)
-- **BarberPro Agenda** — MVP com calendário, notificações e base pra virar SaaS
-
----
-
-## 🧩 Projetos em destaque (Showroom)
-### ✅ Repositórios públicos
-- **React Site Base** — Vite + Tailwind + Router  
-  ➜ https://github.com/giiotec/react-site-base-giiotec
-
-- **Scraper de Preços (Python)**  
-  ➜ https://github.com/giiotec/scraper-precos-python
-
-### 🔜 Em breve (quando estiver redondo)
-- **Delícias do Vovô (MVP público)** — e-commerce local, foco em UX e conversão  
-  ➜ *(repositório público em breve)*
-
-> Melhor 2 repos fortes do que 10 rascunhos.
-
----
-
-## 🧭 Roadmap (curto e executável)
-- [x] Consolidar base React (design system simples + roteamento)
-- [x] Scraper funcional gerando CSV/Excel
-- [ ] Padronizar “React Base” com componentes prontos (Header, Hero, CTA, Form, Footer, SEO)
-- [ ] Migrar e-commerce para **Postgres (Supabase ou Firebase bem estruturado)** + painel admin
-- [ ] Beta do **BarberPro Agenda** (calendário + confirmação + lembretes)
-- [ ] Landing pública + proposta comercial (pra fechar cliente de verdade)
-
----
-
-## 🧰 Como eu posso gerar valor (na prática)
-- Site institucional **premium** (credibilidade + conversão)
-- Landing pages (captação de leads / WhatsApp)
-- Catálogos de produtos (sem e-commerce, mas com cara profissional)
-- Automação e scraping (Python) pra relatórios, planilhas, rotinas e dados
-- MVPs com Firebase/Supabase (login, dashboard, CRUD, permissões)
-
----
-
-## 📊 Estatísticas
+## 📊 Estatísticas e Produção
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=giiotec&show_icons=true&theme=radical" alt="stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giiotec&layout=compact&theme=radical" alt="langs"/>
@@ -96,21 +52,18 @@ Sou **Desenvolvedor Web** (ADS em conclusão) focado em **entregar projetos reai
   <img height="170" src="https://streak-stats.demolab.com?user=giiotec&theme=radical" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=giiotec&theme=onedark&row=1&column=6" alt="trophies"/>
-</p>
-
 ---
 
-## 🧭 Filosofia
-> “A melhor forma de aprender é entregando.”
+## 🧭 Filosofia de Construção
 
-> “Conhecereis a verdade, e a verdade vos libertará.” — João 8:32
+> *"Não codo para a máquina. Orquestro máquinas para servir pessoas."*
+
+> "Conhecereis a verdade, e a verdade vos libertará." — João 8:32
 
 ---
 
 <p align="center">
-  Feito com dedicação e código por <a href="https://github.com/giiotec">@giiotec</a> • Se curtiu, deixa uma ⭐ em algum repo!
+  Orquestrado com visão e IA por <a href="https://github.com/giiotec">@giiotec</a> • Se curtiu a visão, deixa uma ⭐ nos repositórios!
 </p>
 
 <p align="center">
