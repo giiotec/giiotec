@@ -4,7 +4,7 @@
 
 <h3 align="center">Sintaxe é commodity. Arquitetura é o diferencial.</h3>
 <p align="center">
-  <i>Orquestrando uma equipe de milhões através da IA. Construindo ecossistemas digitais robustos.<br>De Itapetininga-SP para a nuvem.</i>
+  <i>Orquestrando uma equipe de milhões através da IA. Construindo ecossistemas digitais robustos.<br>DE-SP para a nuvem.</i>
 </p>
 
 <br>
@@ -47,7 +47,7 @@ Meu foco atual está no desenvolvimento *low-profile* e na resolução de gargal
 <br>
 
 <p align="center">
-  <b>ANALISTA-DE-SISTEMAS</b> • <a href="">GCR</a>
+  <b>ADS</b> • <a href="https://github.com/giiotec">GCR</a>
 </p>
 
 <p align="center">
