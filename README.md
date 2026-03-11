@@ -47,7 +47,7 @@ Meu foco atual está no desenvolvimento *low-profile* e na resolução de gargal
 <br>
 
 <p align="center">
-  <b>Engenheiro de Software</b> • <a href="https://github.com/giiotec">@giiotec</a>
+  <b>ANALISTA-DE-SISTEMAS</b> • <a href="">GCR</a>
 </p>
 
 <p align="center">
